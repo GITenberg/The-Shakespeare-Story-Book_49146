@@ -1,0 +1,32 @@
+_repo: The-Shakespeare-Story-Book_49146
+contributor:
+  illustrator:
+    agent_name: Browne, Goron
+    gutenberg_agent_id: '45167'
+    url: http://www.gutenberg.org/2009/agents/45167
+creator:
+  authors:
+  - agent_name: Macleon, Mary
+    deathdate: 1914
+    gutenberg_agent_id: '45166'
+    url: http://www.gutenberg.org/2009/agents/45166
+  - agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2015-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Shakespeare Story-Book
+url: http://www.gutenberg.org/ebooks/49146
