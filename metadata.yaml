@@ -1,9 +1,13 @@
 _repo: The-Shakespeare-Story-Book_49146
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Browne, Goron
     gutenberg_agent_id: '45167'
     url: http://www.gutenberg.org/2009/agents/45167
+covers:
+- cover_type: archival
+  image_path: 49146-h/images/cover-image.jpg
 creator:
   authors:
   - agent_name: Macleon, Mary
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49146#The-Shakespeare-Story-Book
 gutenberg_issued: '2015-06-06'
 gutenberg_type: Text
 identifiers:
